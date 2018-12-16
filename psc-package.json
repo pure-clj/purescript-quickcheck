@@ -1,0 +1,37 @@
+{
+    "name": "purescript-quickcheck",
+    "set": "master",
+    "source": "https://github.com/pure-clj/package-sets.git",
+    "depends": [
+        "arrays",
+        "console",
+        "control",
+        "effect",
+        "either",
+        "enums",
+        "exceptions",
+        "foldable-traversable",
+        "gen",
+        "generics-rep",
+        "identity",
+        "integers",
+        "lazy",
+        "lcg",
+        "lists",
+        "math",
+        "maybe",
+        "newtype",
+        "nonempty",
+        "partial",
+        "prelude",
+        "record",
+        "st",
+        "strings",
+        "tailrec",
+        "transformers",
+        "tuples",
+        "unfoldable",
+
+        "assert"
+    ]
+}
